@@ -133,7 +133,7 @@ postings into a capable LLM, and let it score them against `AGENTS.md`. **The lo
 below is entirely optional.**
 
 If you'd like to automate the create-issue → work-issue flow (LLM proposes matches,
-opens tickets, produces per-job CV/cover drafts), the loop-engineering primitives
+opens tickets, produces per-job CV/cover drafts), the loop-workflow primitives
 live in **[stagecrew](https://github.com/domek-at/stagecrew)**. It's a recommended
 starting point, not a requirement — see [`docs/loop.md`](docs/loop.md) for how the
 two fit together.

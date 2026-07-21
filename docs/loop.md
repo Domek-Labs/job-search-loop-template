@@ -5,7 +5,7 @@ system by hand — keep your master CV and `AGENTS.md` criteria current, paste j
 postings into a capable LLM, and ask it to score them against your criteria. That
 alone gets you most of the value.
 
-If you want to automate the repetitive parts, the loop-engineering primitives live
+If you want to automate the repetitive parts, the loop-workflow primitives live
 in **[stagecrew](https://github.com/domek-at/stagecrew)**. This page describes how
 the two fit together; nothing here is mandatory.
 
